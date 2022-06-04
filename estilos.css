@@ -1,0 +1,17 @@
+    table, td {
+
+        border: 1px solid black;
+        border-collapse: collapse;
+ }
+
+ body {
+     background-color: gray ;
+ }
+table{background-color: wheat;}
+.texto1{text-align: center; }
+header{background-color: aqua; height: 33px; width: 15%; margin: auto   ;}
+h3{background-color: aquamarine;}
+h2{background-color: aliceblue; text-align: center; margin: 10px; width: auto; height: auto;}
+header{text-align: center; }
+nav {background-color: aliceblue;text-align: center; ;}
+h1{background: skyblue;}
